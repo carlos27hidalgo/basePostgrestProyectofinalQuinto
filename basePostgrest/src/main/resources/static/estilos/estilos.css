@@ -1,0 +1,11 @@
+body{
+  background: linear-gradient(to top, #fff000 0%, #000fff 100%);
+}
+
+p{
+    color: green;
+}
+
+.error{
+    width: 400px;
+}
